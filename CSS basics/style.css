@@ -1,0 +1,57 @@
+body { 
+    color: grey;
+    background-color: bisque;
+
+}
+/* index page */
+.h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:18px
+}
+.h2 {
+    font-family: "Times New Roman", Times, serif;
+    font-size:16px
+}
+
+.p0 {
+    color: #eb2398;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:14px
+    
+}
+
+.ol1{
+    color: white;
+    background-color:#f373e2;   
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:16px
+    
+    white-space: nowrap; 
+    width: 322px; 
+    height: 60px;
+    border: 2px solid #eb2398;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+
+/* about page */
+.p1 {
+    color: black; 
+    font-family: "'Brush Script MT", cursive;
+    font-size:22px
+   }
+
+.p2 {
+    color: black;
+    background-color:#eeb519;   
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:16px
+    
+    white-space: nowrap; 
+    width: 322px; 
+    border: 1px solid #000000;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    }
+
